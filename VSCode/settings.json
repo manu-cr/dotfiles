@@ -1,0 +1,23 @@
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.scrollBeyondLastLine": false,
+  "editor.formatOnPaste": true,
+  "editor.minimap.enabled": true,
+  "editor.formatOnType": true,
+  "html.format.endWithNewline": true,
+  "htmlhint.options": {
+    "attr-lowercase": false
+  },
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\cmd.exe",
+  "git.autofetch": true,
+  "telemetry.enableTelemetry": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "breadcrumbs.enabled": true,
+  "files.trimTrailingWhitespace": true,
+  "tslint.alwaysShowStatus": true,
+  "typescriptHero.imports.multiLineTrailingComma": false,
+  "typescriptHero.imports.multiLineWrapThreshold": 160,
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "html.format.wrapLineLength": 150
+}

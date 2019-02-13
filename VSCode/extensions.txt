@@ -1,0 +1,10 @@
+Angular.ng-template
+CoenraadS.bracket-pair-colorizer
+dweber019.vscode-style-formatter
+eg2.tslint
+johnpapa.Angular2
+maptz.camelcasenavigation
+mkaufman.HTMLHint
+MS-CEINTL.vscode-language-pack-es
+pranaygp.vscode-css-peek
+rbbit.typescript-hero
