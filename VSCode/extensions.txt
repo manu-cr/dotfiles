@@ -1,7 +1,7 @@
 Angular.ng-template
 CoenraadS.bracket-pair-colorizer
 dweber019.vscode-style-formatter
-eg2.tslint
+ms-vscode.vscode-typescript-tslint-plugin
 johnpapa.Angular2
 maptz.camelcasenavigation
 mkaufman.HTMLHint
